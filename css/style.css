@@ -244,17 +244,6 @@ button[type="reset"] {
 	background-color: #999;
 }
 
-/* LICENCE */
-#licence {
-    display: block;
-    text-align: center;
-    padding: 25px;
-}
-
-#licence img {
-    width: 50px;
-}
-
 @media screen and (min-width: 720px) {
 	header{
 		padding: 10%;
